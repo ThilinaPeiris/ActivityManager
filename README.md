@@ -5,7 +5,7 @@ ActivityManager is a simple tool which facilitates users to plan, manage,
 monitor and track any activities/tasks/projects in a systematic way.
 
 
-![alt tag] (https://github.com/ThilinaPeiris/ActivityManager/blob/master/Screenshots/ActivityManager.jpg)
+![alt tag] (https://github.com/ThilinaPeiris/ActivityManager/blob/master/Screenshots/ActivityManagerScreenshot.jpg)
 
 
 ###Development
